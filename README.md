@@ -1,5 +1,6 @@
 # Smart-Elevator(1st year group project)
-![WhatsApp Image 2024-01-30 at 11 11 53_7f1bbeea](https://github.com/bahasuru-naya/Smart-Elevator/assets/76860751/3c86a071-091d-4a7c-a8e6-137be2013a9e)
+
+![Screenshot 2024-05-15 114241](https://github.com/bahasuru-naya/Smart-Elevator/assets/76860751/ff4c3276-7253-4185-8294-3a54fba8914c)
 
 In today's urban landscape, where high-rise buildings dominate skylines, efficient vertical transportation systems are indispensable. Smart Elevator is a cutting-edge project aimed at revolutionizing the way we perceive and utilize elevators within these towering structures. Combining state-of-the-art technology with innovative design, Smart Elevator is poised to redefine the standards of vertical transportation efficiency, safety, and convenience.
 
@@ -18,6 +19,6 @@ https://github.com/bahasuru-naya/Smart-Elevator/assets/76860751/4a8d8a34-513c-48
 ## final prototype
 https://github.com/bahasuru-naya/Smart-Elevator/assets/76860751/2df264bf-8a65-4fd3-9c16-68f3cdac1261
 
-##advanced emergency button
+## advanced emergency button
 https://github.com/bahasuru-naya/Smart-Elevator/assets/76860751/0016d8c7-b102-4a12-8b58-b8bf48417c0a
 
